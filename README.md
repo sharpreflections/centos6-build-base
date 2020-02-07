@@ -1,4 +1,4 @@
-# centos6-build
+# centos6-build-base
 CentOS6 based image
 
 Just includes build essentials for further build steps. Split from the formerly
